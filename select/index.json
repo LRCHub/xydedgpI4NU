@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Mystery × Chemistry",
+  "base_artist": "マンハッタンカフェ (CV. 小倉 唯)、アグネスタキオン (CV. 上坂すみれ)",
+  "createdAt": "2026-01-12T04:23:45.199430Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mystery Jack",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_Mystery_Jack_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mystery Jack",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_Mystery_Jack_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mystery",
+      "artist": "Lake Heartbeat",
+      "has_synced": true,
+      "path": "select/03_Mystery_Lake_Heartbeat.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mystery Hours",
+      "artist": "The New Pornographers",
+      "has_synced": true,
+      "path": "select/04_Mystery_Hours_The_New_Pornographers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mystery Key",
+      "artist": "Provoker",
+      "has_synced": true,
+      "path": "select/05_Mystery_Key_Provoker.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mystery Song",
+      "artist": "Status Quo",
+      "has_synced": false,
+      "path": "select/06_Mystery_Song_Status_Quo.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mystery Game",
+      "artist": "Clannad",
+      "has_synced": true,
+      "path": "select/07_Mystery_Game_Clannad.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mystery Lady",
+      "artist": "Billy Ocean",
+      "has_synced": true,
+      "path": "select/08_Mystery_Lady_Billy_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mystery Lady",
+      "artist": "Billy Ocean",
+      "has_synced": true,
+      "path": "select/09_Mystery_Lady_Billy_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mystery Lady",
+      "artist": "Billy Ocean",
+      "has_synced": true,
+      "path": "select/10_Mystery_Lady_Billy_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mystery Disease",
+      "artist": "MGMT",
+      "has_synced": true,
+      "path": "select/11_Mystery_Disease_MGMT.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Transparency Is the New Mystery",
+      "artist": "Marnie Stern",
+      "has_synced": false,
+      "path": "select/12_Transparency_Is_the_New_Mystery_Marnie_Stern.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Keep It A Mystery",
+      "artist": "Elton John",
+      "has_synced": false,
+      "path": "select/13_Keep_It_A_Mystery_Elton_John.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mystery Lady (Extended Version)",
+      "artist": "Billy Ocean",
+      "has_synced": false,
+      "path": "select/14_Mystery_Lady_(Extended_Version)_Billy_Ocean.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mystery, Fate and Love",
+      "artist": "עפרה חזה",
+      "has_synced": false,
+      "path": "select/15_Mystery,_Fate_and_Love_עפרה_חזה.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Mystery, Fate and Love",
+      "artist": "Ofra Haza",
+      "has_synced": false,
+      "path": "select/16_Mystery,_Fate_and_Love_Ofra_Haza.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mystery × Chemistry",
+      "artist": "マンハッタンカフェ(小倉唯),アグネスタキオン(上坂すみれ)",
+      "has_synced": false,
+      "path": "select/pl_01_Mystery_×_Chemistry_マンハッタンカフェ(小倉唯),アグネスタキオン(上坂すみれ).txt"
+    }
+  ]
+}
